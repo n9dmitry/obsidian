@@ -11,10 +11,11 @@ from sqlalchemy import create_engine, Column, Integer, String
 9    id = Column(Integer, primary_key=True)
 10    name = Column(String)
 11
-12# Создание engine и сессии
-13engine = create_engine('sqlite:///:memory:')  # Используем SQLite в памяти
+12
+13engine = create_engine('sqlite:///:memory:')
 14Base.metadata.create_all(engine)
 15Session = sessionmaker(bind=engine)
 16session = Session()
 ```
 
+[[Python]]
