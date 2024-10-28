@@ -18,4 +18,4 @@ from sqlalchemy import create_engine, Column, Integer, String
 16session = Session()
 ```
 
-[[Python]]
+[[Базы Данных]]
