@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/test223.md",
+                "file": "notes/Django ORM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test223"
+              "title": "Django ORM"
             }
           }
         ]
@@ -173,8 +173,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a5fff75fcf1004a1",
+  "active": "843c6fce09d2bbf9",
   "lastOpenFiles": [
+    "notes/Django ORM.md",
+    "notes/Django Rest Framework DRF.md",
+    "notes/Docker.md",
+    "notes/Selenium.md",
+    "notes/REST.md",
+    "notes/Программирование.md",
     "notes/test223.md"
   ]
 }
