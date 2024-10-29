@@ -18,4 +18,7 @@ from sqlalchemy import create_engine, Column, Integer, String
 16session = Session()
 ```
 
+
+Алембик для миграций
+
 [[Базы Данных]]
